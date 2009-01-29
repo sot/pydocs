@@ -8,3 +8,4 @@
    Ska.Table
    Ska.DBI
    Ska.File
+   cosmocalc

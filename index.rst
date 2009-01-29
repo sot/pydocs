@@ -15,7 +15,7 @@ Module summary
 * :mod:`Ska.Numpy`
 * :mod:`Ska.Shell`
 * :mod:`Ska.Table`
-
+* :mod:`cosmocalc`
 
 Indices and tables
 -------------------
@@ -36,3 +36,4 @@ Everything
    Ska.Numpy
    Ska.Shell
    Ska.Table
+   cosmocalc
