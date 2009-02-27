@@ -15,6 +15,7 @@ Module summary
 * :mod:`Ska.Numpy`
 * :mod:`Ska.Shell`
 * :mod:`Ska.Table`
+* :mod:`Ska.TelemArchive.fetch`
 * :mod:`cosmocalc`
 
 Indices and tables
@@ -36,4 +37,5 @@ Everything
    Ska.Numpy
    Ska.Shell
    Ska.Table
+   Ska.TelemArchive.fetch
    cosmocalc
