@@ -13,6 +13,7 @@ Module summary
 * :mod:`Ska.DBI`
 * :mod:`Ska.File`
 * :mod:`Ska.Numpy`
+* :mod:`Ska.ParseCM`
 * :mod:`Ska.Shell`
 * :mod:`Ska.Table`
 * :mod:`Ska.TelemArchive.fetch`
@@ -35,6 +36,7 @@ Everything
    Ska.DBI
    Ska.File
    Ska.Numpy
+   Ska.ParseCM
    Ska.Shell
    Ska.Table
    Ska.TelemArchive.fetch
