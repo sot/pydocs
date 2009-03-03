@@ -8,16 +8,19 @@ Ska python documentation
 
 Module summary
 ----------------
-* :mod:`Chandra.ECF`
-* :mod:`Chandra.Time`
-* :mod:`Ska.DBI`
-* :mod:`Ska.File`
-* :mod:`Ska.Numpy`
-* :mod:`Ska.ParseCM`
-* :mod:`Ska.Shell`
-* :mod:`Ska.Table`
+
+* :mod:`cosmocalc`       
+* :mod:`Chandra.ECF`     
+* :mod:`Chandra.Time`    
+* :mod:`psmc_predict`    
+* :mod:`Ska.DBI`                                       
+* :mod:`Ska.File`                                      
+* :mod:`Ska.Numpy`             
+* :mod:`Ska.ParseCM`           
+* :mod:`Ska.Shell`             
+* :mod:`Ska.Table`             
 * :mod:`Ska.TelemArchive.fetch`
-* :mod:`cosmocalc`
+
 
 Indices and tables
 -------------------
@@ -33,6 +36,7 @@ Everything
 
    Chandra.ECF
    Chandra.Time
+   psmc_predict
    Ska.DBI
    Ska.File
    Ska.Numpy
