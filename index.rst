@@ -12,15 +12,16 @@ Module summary
 * :mod:`cosmocalc`       
 * :mod:`Chandra.ECF`     
 * :mod:`Chandra.Time`    
-* :mod:`psmc_predict`    
 * :mod:`Ska.DBI`                                       
 * :mod:`Ska.File`                                      
+* :mod:`Ska.Matplotlib`             
 * :mod:`Ska.Numpy`             
 * :mod:`Ska.ParseCM`           
 * :mod:`Ska.Shell`             
 * :mod:`Ska.Table`             
 * :mod:`Ska.TelemArchive.fetch`
 
+..  * :mod:`psmc_predict`    
 
 Indices and tables
 -------------------
@@ -36,12 +37,14 @@ Everything
 
    Chandra.ECF
    Chandra.Time
-   psmc_predict
    Ska.DBI
    Ska.File
+   Ska.Matplotlib
    Ska.Numpy
    Ska.ParseCM
    Ska.Shell
    Ska.Table
    Ska.TelemArchive.fetch
    cosmocalc
+
+..    psmc_predict
