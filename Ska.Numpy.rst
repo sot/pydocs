@@ -1,9 +1,7 @@
 :mod:`Ska.Numpy`
-===============================================================================================================================================
-
+=====================
 
 .. automodule:: Ska.Numpy
-
 
 Functions
 ----------
@@ -17,6 +15,10 @@ Functions
 .. autofunction:: interpolate
 
 .. autofunction:: match
+
+.. autofunction:: pformat
+
+.. autofunction:: pprint
 
 .. autofunction:: smooth
 
