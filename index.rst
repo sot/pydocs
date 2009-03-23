@@ -18,6 +18,7 @@ Module summary
 * :mod:`Ska.Numpy`             
 * :mod:`Ska.ParseCM`           
 * :mod:`Ska.Shell`             
+* :mod:`Ska.Sun`             
 * :mod:`Ska.Table`             
 * :mod:`Ska.TelemArchive.fetch`
 
@@ -43,6 +44,7 @@ Everything
    Ska.Numpy
    Ska.ParseCM
    Ska.Shell
+   Ska.Sun
    Ska.Table
    Ska.TelemArchive.fetch
    cosmocalc
