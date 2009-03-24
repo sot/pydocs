@@ -8,6 +8,8 @@ Functions
 ----------
 
 .. autofunction:: position
+.. autofunction:: pitch
+.. autofunction:: sph_dist
 
 
 
