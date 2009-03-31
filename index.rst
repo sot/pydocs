@@ -31,10 +31,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Everything
------------
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    Chandra.ECF
    Chandra.Time
