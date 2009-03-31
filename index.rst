@@ -11,6 +11,7 @@ Module summary
 
 * :mod:`cosmocalc`       
 * :mod:`Chandra.ECF`     
+* :mod:`Chandra.Maneuver`
 * :mod:`Chandra.Time`    
 * :mod:`Ska.DBI`                                       
 * :mod:`Ska.File`                                      
@@ -21,6 +22,7 @@ Module summary
 * :mod:`Ska.Sun`             
 * :mod:`Ska.Table`             
 * :mod:`Ska.TelemArchive.fetch`
+* :mod:`Quaternion`
 
 ..  * :mod:`psmc_predict`    
 
@@ -36,6 +38,7 @@ Indices and tables
    :hidden:
 
    Chandra.ECF
+   Chandra.Maneuver
    Chandra.Time
    Ska.DBI
    Ska.File
@@ -46,6 +49,7 @@ Indices and tables
    Ska.Sun
    Ska.Table
    Ska.TelemArchive.fetch
+   Quaternion
    cosmocalc
 
 ..    psmc_predict
