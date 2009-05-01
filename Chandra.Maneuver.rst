@@ -11,3 +11,5 @@ Functions
 .. autofunction:: attitudes
 .. autofunction:: get_eigenaxis
 .. autofunction:: profile
+.. autofunction:: NSM_attitude
+
