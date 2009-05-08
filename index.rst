@@ -10,6 +10,7 @@ Module summary
 ----------------
 
 * :mod:`cosmocalc`       
+* :mod:`Chandra.cmd_states`     
 * :mod:`Chandra.ECF`     
 * :mod:`Chandra.Maneuver`
 * :mod:`Chandra.Time`    
@@ -37,6 +38,7 @@ Indices and tables
    :maxdepth: 2
    :hidden:
 
+   Chandra.cmd_states
    Chandra.ECF
    Chandra.Maneuver
    Chandra.Time
