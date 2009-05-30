@@ -14,6 +14,8 @@ Module summary
 * :mod:`Chandra.ECF`     
 * :mod:`Chandra.Maneuver`
 * :mod:`Chandra.Time`    
+* :mod:`Ska.astro`                                       
+* :mod:`Ska.CIAO`                                       
 * :mod:`Ska.DBI`                                       
 * :mod:`Ska.File`                                      
 * :mod:`Ska.Matplotlib`             
@@ -42,6 +44,8 @@ Indices and tables
    Chandra.ECF
    Chandra.Maneuver
    Chandra.Time
+   Ska.astro
+   Ska.CIAO
    Ska.DBI
    Ska.File
    Ska.Matplotlib
@@ -54,4 +58,4 @@ Indices and tables
    Quaternion
    cosmocalc
 
-..    psmc_predict
+.. psmc_predict
