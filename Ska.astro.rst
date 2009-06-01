@@ -5,6 +5,11 @@
 
 Astro utilities
 
+Functions
+---------
+
+.. autofunction:: sph_dist
+
 Classes
 --------
 
