@@ -21,11 +21,13 @@ Module summary
 * :mod:`Ska.Matplotlib`             
 * :mod:`Ska.Numpy`             
 * :mod:`Ska.ParseCM`           
+* :mod:`Ska.quatutil`
 * :mod:`Ska.Shell`             
 * :mod:`Ska.Sun`             
 * :mod:`Ska.Table`             
 * :mod:`Ska.TelemArchive.fetch`
 * :mod:`Quaternion`
+
 
 ..  * :mod:`psmc_predict`    
 
@@ -51,11 +53,13 @@ Indices and tables
    Ska.Matplotlib
    Ska.Numpy
    Ska.ParseCM
+   Ska.quatutil
    Ska.Shell
    Ska.Sun
    Ska.Table
    Ska.TelemArchive.fetch
    Quaternion
    cosmocalc
+   
 
 .. psmc_predict
