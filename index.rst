@@ -18,6 +18,7 @@ Module summary
 * :mod:`Ska.CIAO`                                       
 * :mod:`Ska.DBI`                                       
 * :mod:`Ska.File`                                      
+* :mod:`Ska.ftp`                                      
 * :mod:`Ska.Matplotlib`             
 * :mod:`Ska.Numpy`             
 * :mod:`Ska.ParseCM`           
@@ -49,6 +50,7 @@ Indices and tables
    Ska.astro
    Ska.CIAO
    Ska.DBI
+   Ska.ftp
    Ska.File
    Ska.Matplotlib
    Ska.Numpy
