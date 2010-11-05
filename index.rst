@@ -24,6 +24,7 @@ Module summary
 * :mod:`Ska.Numpy`             
 * :mod:`Ska.ParseCM`           
 * :mod:`Ska.quatutil`
+* :mod:`Ska.report_ranges`
 * :mod:`Ska.Shell`             
 * :mod:`Ska.Sun`             
 * :mod:`Ska.Table`             
@@ -58,6 +59,7 @@ Indices and tables
    Ska.Numpy
    Ska.ParseCM
    Ska.quatutil
+   Ska.report_ranges
    Ska.Shell
    Ska.Sun
    Ska.Table
