@@ -9,6 +9,7 @@ Functions
 
 .. autofunction:: position
 .. autofunction:: pitch
+.. autofunction:: nominal_roll
 .. autofunction:: sph_dist
 
 
