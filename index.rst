@@ -15,6 +15,7 @@ Module summary
 * :mod:`Chandra.ECF`     
 * :mod:`Chandra.Maneuver`
 * :mod:`Chandra.Time`    
+* :mod:`Ska.arc5gl`                                       
 * :mod:`Ska.astro`                                       
 * :mod:`Ska.CIAO`                                       
 * :mod:`Ska.DBI`                                       
@@ -50,6 +51,7 @@ Indices and tables
    Chandra.ECF
    Chandra.Maneuver
    Chandra.Time
+   Ska.arc5gl
    Ska.astro
    Ska.CIAO
    Ska.DBI

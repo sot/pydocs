@@ -2,14 +2,4 @@
 =======================
 
 .. automodule:: Chandra.Maneuver
-
-
-Functions
-----------
-
-.. autofunction:: duration
-.. autofunction:: attitudes
-.. autofunction:: get_eigenaxis
-.. autofunction:: profile
-.. autofunction:: NSM_attitude
-
+   :members:
