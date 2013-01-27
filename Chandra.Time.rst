@@ -8,13 +8,24 @@
 Functions
 ----------
 
+Fast conversion functions
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. autofunction:: convert_vals
+
+.. autofunction:: date2secs
+
+.. autofunction:: secs2date
+
+Other functions
+^^^^^^^^^^^^^^^^
+
 .. autofunction:: convert
 
 .. autofunction:: date_to_greta
 
 .. autofunction:: greta_to_date
 
-.. autofunction:: raise_
 
 
 
