@@ -30,7 +30,6 @@ Module summary
    Ska.ParseCM
    Ska.quatutil
    Ska.report_ranges
-   Ska.Shell
    Ska.Sun
    Ska.Table
    Ska.tdb
@@ -43,3 +42,8 @@ Module summary
    Ska.tdb_api
 
 .. psmc_predict
+
+Moved to tool_doc
+------------------
+
+- `Ska.Shell <../Ska.Shell/>`_
