@@ -32,14 +32,11 @@ Module summary
    Ska.report_ranges
    Ska.Sun
    Ska.Table
-   Ska.tdb
    Ska.TelemArchive.fetch
 
 .. toctree::
    :maxdepth: 1
    :hidden:
-
-   Ska.tdb_api
 
 .. psmc_predict
 
