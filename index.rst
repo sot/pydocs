@@ -24,7 +24,6 @@ Module summary
    Ska.CIAO
    Ska.DBI
    Ska.ftp
-   Ska.File
    Ska.Matplotlib
    Ska.Numpy
    Ska.ParseCM
@@ -43,4 +42,5 @@ Module summary
 Moved to tool_doc
 ------------------
 
+- `Ska.File <../Ska.File/>`_
 - `Ska.Shell <../Ska.Shell/>`_
