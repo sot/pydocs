@@ -18,7 +18,6 @@ Module summary
    Chandra.Maneuver
    Chandra.Time
    cosmocalc
-   Quaternion
    Ska.arc5gl
    Ska.astro
    Ska.CIAO
